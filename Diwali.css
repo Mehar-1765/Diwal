@@ -3,8 +3,6 @@
     padding:40px;
     background-size:cover;
     height:30vh;
-    width:400px;
-    margin:auto;
 }
 .top-heading{
     color:white;
@@ -15,6 +13,10 @@
     padding:20px;
     background-color:#e6f6ff;
     text-align:center;
+}
+.p{
+    width:400px;
+    margin:auto;
 }
 .card-container{
     background-color:white;
