@@ -2,7 +2,9 @@
     background-image:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png');
     padding:40px;
     background-size:cover;
-    height:30vh
+    height:30vh;
+    width:400px;
+    margin:auto;
 }
 .top-heading{
     color:white;
